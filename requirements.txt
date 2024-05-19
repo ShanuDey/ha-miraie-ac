@@ -1,0 +1,5 @@
+homeassistant
+pip
+miraie-ac==1.0.3
+asyncio>=3.4.3
+aiomqtt>=2.0.1
