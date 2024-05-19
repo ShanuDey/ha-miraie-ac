@@ -11,6 +11,7 @@
   "documentation": "https://github.com/ShanuDey/ha-miraie-ac",
   "homekit": {},
   "iot_class": "cloud_push",
+  "issue_tracker": "https://github.com/ShanuDey/ha-miraie-ac/issues",
   "requirements": [
     "miraie-ac==1.0.3",
     "asyncio>=3.4.3",
