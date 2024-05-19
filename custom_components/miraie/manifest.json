@@ -1,22 +1,22 @@
 {
-  "domain": "miraie",
-  "name": "MirAIe",
+  "codeowners": [
+    "@Kir4Kun",
+    "@rkzofficial",
+    "@ShanuDey"
+  ],
   "config_flow": true,
+  "dependencies": [],
   "documentation": "https://github.com/ShanuDey/ha-miraie-ac",
+  "domain": "miraie",
+  "homekit": {},
+  "iot_class": "cloud_push",
+  "name": "MirAIe",
   "requirements": [
     "miraie-ac==1.0.3",
     "asyncio>=3.4.3",
     "aiomqtt>=2.0.1"
   ],
   "ssdp": [],
-  "zeroconf": [],
-  "homekit": {},
-  "dependencies": [],
-  "codeowners": [
-    "@Kir4Kun",
-    "@rkzofficial",
-    "@ShanuDey"
-  ],
-  "iot_class": "cloud_push",
-  "version": "1.0.3"
+  "version": "1.0.3",
+  "zeroconf": []
 }
